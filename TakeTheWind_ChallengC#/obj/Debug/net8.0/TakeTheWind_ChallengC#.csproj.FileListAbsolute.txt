@@ -1,0 +1,17 @@
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.AssemblyInfoInputs.cache
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.AssemblyInfo.cs
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.csproj.CoreCompileInputs.cache
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/bin/Debug/net8.0/TakeTheWind_ChallengC#
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/bin/Debug/net8.0/TakeTheWind_ChallengC#.deps.json
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/bin/Debug/net8.0/TakeTheWind_ChallengC#.runtimeconfig.json
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/bin/Debug/net8.0/TakeTheWind_ChallengC#.dll
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/bin/Debug/net8.0/TakeTheWind_ChallengC#.pdb
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.csproj.AssemblyReference.cache
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.csproj.CopyComplete
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.dll
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/refint/TakeTheWind_ChallengC#.dll
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.pdb
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/TakeTheWind_ChallengC#.genruntimeconfig.cache
+/Users/alexandrejaneiro/Desktop/TakeTheWind_ChallengC#/obj/Debug/net8.0/ref/TakeTheWind_ChallengC#.dll

@@ -1,0 +1,79 @@
+<vehicles>
+    <vehicle type="bicycle">
+        <motor type="electric">
+            <power>2</power>
+        </motor>
+        <wheels>
+            <wheel size="29" pressure="30" />
+            <wheel size="29" pressure="28" />
+        </wheels>
+    </vehicle>
+
+    <vehicle type="car">
+        <motor type="internal-combustion">
+            <power>150</power>
+        </motor>
+        <wheels>
+            <wheel size="17" pressure="40" />
+            <wheel size="17" pressure="40" />
+            <wheel size="17" pressure="41" />
+            <wheel size="17" pressure="41" />
+        </wheels>
+    </vehicle>
+
+    <vehicle type="bicycle">
+        <wheels>
+            <wheel size="27" pressure="30" />
+            <wheel size="27" pressure="28" />
+        </wheels>
+    </vehicle>
+
+    <vehicle type="truck">
+        <motor type="internal-combustion">
+            <power>300</power>
+        </motor>
+        <wheels>
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="44" />
+            <wheel size="20" pressure="44" />
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="44" />
+            <wheel size="20" pressure="44" />
+        </wheels>
+    </vehicle>
+
+    <vehicle type="bicycle">
+        <wheels>
+            <wheel size="14" pressure="30" />
+            <wheel size="14" pressure="28" />
+        </wheels>
+    </vehicle>
+
+    <vehicle type="car">
+        <motor type="hybrid">
+            <power>200</power>
+        </motor>
+        <wheels>
+            <wheel size="19" pressure="42" />
+            <wheel size="19" pressure="42" />
+            <wheel size="19" pressure="44" />
+            <wheel size="19" pressure="44" />
+        </wheels>
+    </vehicle>
+
+    <vehicle type="truck">
+        <motor type="internal-combustion" />
+        <wheels>
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="44" />
+            <wheel size="20" pressure="44" />
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="42" />
+            <wheel size="20" pressure="44" />
+            <wheel size="20" pressure="44" />
+        </wheels>
+    </vehicle>
+</vehicles>
